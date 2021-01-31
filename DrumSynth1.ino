@@ -78,7 +78,7 @@ const int TFT_RST   = 9;
 const int TOUCH_CS  = 5;
 
 // Encoder pins
-#define HasEncoder
+//#define HasEncoder
 #ifdef HasEncoder
   const int ENCODER_A = 7;
   const int ENCODER_B = 6;
